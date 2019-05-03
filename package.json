@@ -9,12 +9,9 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.3.4",
-    "mathjax": "^2.7.5",
     "meteor-node-stubs": "^0.4.1",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
-    "react-load-script": "0.0.6",
-    "react-markdown": "^4.0.8",
-    "react-mathjax": "^1.0.1"
+    "react-load-script": "0.0.6"
   }
 }
