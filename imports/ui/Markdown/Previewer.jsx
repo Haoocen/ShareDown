@@ -1,11 +1,10 @@
 import React from 'react';
-export default class NavBar extends React.Component {
+export default class Previewer extends React.Component {
     render () {
         return (
             <div>
-                <h1>ShareDown</h1>
+                <p>Markdown Previewer</p>
             </div>
         )
     }
-
 }
