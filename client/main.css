@@ -1,0 +1,12 @@
+textarea {
+    font-size: 50px;
+}
+
+.MainComponents {
+    display: flex;
+    flex-grow: 1;
+}
+
+button {
+    font-size: 50px;
+}
